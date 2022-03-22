@@ -1,4 +1,4 @@
-#### Multitemporal Analysis of Seasonal Burns in Burkina Faso
+## Multitemporal Analysis of Seasonal Burns in Burkina Faso
 
 by Jyoti Biswas, Magdalena Fischer, Lallu Prathapan and Ina Schulz
 ## Overview of the Study Area
@@ -12,4 +12,4 @@ In general, an increase in land cover conversion from forest to agricultural lan
 The region of interest for this exemplary application was chosen based on qualitative analysis of the FIRMS Fire Map by NASA. Tere Forest is a National Forest of Burkina Faso. With an average elevation of 340 m above sea level (asl) it rises above the surrounding planes (Google Earth 2022).
 The forest itself is not used for crop farming, which is in strong contrast to the agricultrurally used lands surrounding the forest. These are still littered with trees within fields or along borders.
 
-THe script focuses on calutlating the NBR and dNBR as well as comparing the results with hotspot data from MODIS and land surface tempretaure analysis.
+The script focuses on calutlating the NBR and dNBR as well as comparing the results with hotspot data from MODIS and land surface tempretaure analysis.
